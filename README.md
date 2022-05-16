@@ -4,7 +4,7 @@ OpenType で配布されている [Noto Sans Japanese](https://fonts.google.com/
 ※サブセット化はしていません。
 
 # ダウンロード
-[リリースページ](https://github.com/r-40021/noto-sans-jp/releases) から、各ファイル形式毎の zip ファイルをダウンロードできます。
+[最新のリリース](https://github.com/r-40021/noto-sans-jp/releases/latest) から、各ファイル形式毎の zip ファイルをダウンロードできます。
 
 ダウンロードしたフォントを PC にインストール方法については以下のサイトをご覧ください。
 
